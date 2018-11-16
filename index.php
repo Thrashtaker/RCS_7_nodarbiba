@@ -1,3 +1,6 @@
+<?php       
+
+include_once 'db.php';
 
 include_once 'components/header.php';
 // šeit mēs inklūdēsim saturu no lapām starp header un footer
